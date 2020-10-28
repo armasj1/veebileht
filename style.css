@@ -17,3 +17,14 @@ img{
     border-style: solid;
     border-width: 3mm;
 }
+th{
+    border-style: solid;
+    border-color: black;
+    border-width: 1mm;
+}
+td{
+    text-align: center;
+    border-style: ridge;
+    border-color: black;
+    border-width: 1mm;
+}
